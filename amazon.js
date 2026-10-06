@@ -43,4 +43,3 @@ function openProduct(img) {
 }
 
 
- 
